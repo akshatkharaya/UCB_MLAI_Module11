@@ -26,4 +26,4 @@ We need to understand the business objective related to fine tuning the inventor
 * If the business model is oriented to optimize commission in dollars per car (which is a % of car price), then the used car dealership should focus on Pickup and Truck car types because of the positive relationship with price on average for regular cars (i.e., year >= 1990). Dealer should also look for newer cars with less mileage (i.e., odometer reading) based on the model. 
 * If the business model is such that moving inventory is important, then instead of the price, we should look at number of days car held on inventory. 
 
-Link to Jupyter notebook: <link>
+Link to Jupyter notebook: https://github.com/akshatkharaya/UCB_MLAI_Module11/blob/main/prompt_II_AkshatKharaya.ipynb
